@@ -36,7 +36,25 @@ O primeiro software tem como finalidade otimizar o processo de entrega dos produ
 
 O segundo software tem como finalidade gerir a distribuição de produtos entre a fábrica que processa e entrega os suprimentos para as unidades _Pizza Express_.
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+
+Para o sistema que realizará a comunicação entre o cliente e as lojas do _Pizza Express_ os seguintes requisitos devem ser atendidos: 
+
+
+#1. Cadastrar usuários no sistema.
+#2. Realizar login.
+#3. Gerenciar estoque.
+#4. Gerar relatório de estoque.
+#5. Receber e processar pedidos.
+#6. Localizar lojas próximas.
+
+Para o sistema que realizará a comunicação entre a fábrica e as lojas
+
+#1. Cadastrar usuários no sistema
+#2. Realizar login 
+#3. Gerenciar estoque.
+#4. Gerar relatório de estoque.
+#5. Gerenciar a distribuição de produtos.
+
 
 # Diagrama de casos de uso
 
