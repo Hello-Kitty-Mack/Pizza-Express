@@ -78,16 +78,48 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 
 # Diagrama de casos de uso
 
-![Alt text](<Captura de tela 2023-10-02 173831.png>)
-![Alt text](<Captura de tela 2023-10-02 173732.png>)
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/b3c22f30-8264-4bf7-a4c3-1055d86ace88)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/f17b3a3d-88dd-4742-b655-e0c117b68fc3)
+
 
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/7f2699ca-72fc-4fa2-b32e-f76f0a6182cd)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/c12f37a9-0aee-453c-b10e-3bcec1338922)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/a66504bc-9c9a-4495-9277-ba558e50a4c7)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/bbe9bdea-c7fb-4895-b61f-ccab1fcda5a5)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/e2f7633f-b501-410f-a42d-ea8b15d1d4a1)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/76c7bf8a-fb86-4f3d-8d99-a1a1cb30a04a)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/3a20c102-2fa5-4609-8466-22cff024fd5a)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/8d81b4fb-4520-4673-bf33-ca0239a36f72)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/668e8a5d-10f5-47b5-82c8-6d312064773d)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/a66e27e5-a94b-4d3c-8c82-a1302a6c1d66)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/7b74dbfc-d4de-4c3f-97b5-312a05a0524c)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/ce3776a5-4eab-47bd-bd48-572ffe328c29)
+
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/8214a396-31f6-43e4-81ef-d735058214b5)
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Diagrama login-1](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/63def356-89b8-45bf-9584-c0b8c9bc50d9)
+
+![Diagrama de sequencia fazer pedido-1](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/68df9fa6-3eee-4b1c-a749-16b0e444e29e)
+
+![Diagrama de sequencia restaurante-1](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/021fed44-1eab-4a57-bd9c-9dc0b765704c)
+
+
 
 # Diagrama de classes
 
