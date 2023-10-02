@@ -40,25 +40,46 @@ O segundo software tem como finalidade gerir a distribuição de produtos entre 
 Para o sistema que realizará a comunicação entre o cliente e as lojas do _Pizza Express_ os seguintes requisitos devem ser atendidos: 
 
 
-#1. Cadastrar usuários no sistema.
-#2. Realizar login.
-#3. Gerenciar estoque.
-#4. Gerar relatório de estoque.
-#5. Receber e processar pedidos.
-#6. Localizar lojas próximas.
+1. Cadastrar usuários no sistema.
+
+
+2. Realizar login.
+
+
+3. Gerenciar estoque.
+
+
+4. Gerar relatório de estoque.
+
+
+5. Receber e processar pedidos.
+
+
+6. Localizar lojas próximas.
+
+
 
 Para o sistema que realizará a comunicação entre a fábrica e as lojas
 
-#1. Cadastrar usuários no sistema
-#2. Realizar login 
-#3. Gerenciar estoque.
-#4. Gerar relatório de estoque.
-#5. Gerenciar a distribuição de produtos.
+1. Cadastrar usuários no sistema.
+
+
+2. Realizar login.
+
+
+3. Gerenciar estoque.
+
+
+4. Gerar relatório de estoque.
+
+
+5. Gerenciar a distribuição de produtos.
 
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Alt text](<Captura de tela 2023-10-02 173831.png>)
+![Alt text](<Captura de tela 2023-10-02 173732.png>)
 
 # Descrição dos casos de uso
 
