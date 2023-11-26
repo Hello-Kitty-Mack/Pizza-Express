@@ -118,10 +118,8 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 ![Restaurante](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/2a059bf9-1669-455e-924f-fbc3001965a5)
 
 # Diagrama de classes
+
 ![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/111824125/317f72e1-73ee-4d1d-9ff1-9f50abc9cd34)
-
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
 
 # Diagrama de Componentes
 
