@@ -128,7 +128,7 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+![Captura de tela 2023-11-27 210753](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/7073e14e-4fff-48d1-b5ca-00d621bceacb)
 
 # Diagrama de implantação
 
