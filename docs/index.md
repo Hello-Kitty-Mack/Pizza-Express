@@ -127,8 +127,10 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 
 
 # Decisões de arquitetura
+![arquitetura](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/cee90390-2f2b-4b02-82b0-151bce031c9a)
 
-![Captura de tela 2023-11-27 210753](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/7073e14e-4fff-48d1-b5ca-00d621bceacb)
+![compra](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/a5d07743-fef6-4f45-abc9-3add3823af33)
+
 
 # Diagrama de implantação
 
@@ -136,5 +138,6 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 
 
 # Referências
+
 
 - https://staruml.io
