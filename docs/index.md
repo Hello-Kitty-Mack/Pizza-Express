@@ -129,12 +129,11 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 # Decisões de arquitetura
 ![arquitetura](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/cee90390-2f2b-4b02-82b0-151bce031c9a)
 
-![compra](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/a5d07743-fef6-4f45-abc9-3add3823af33)
-
 
 # Diagrama de implantação
 
 ![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/45ba1bb4-ea80-4b9d-8ef4-a5cadfec81de)
+![compra](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/a5d07743-fef6-4f45-abc9-3add3823af33)
 
 
 # Referências
