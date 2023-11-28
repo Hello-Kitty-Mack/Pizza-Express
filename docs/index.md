@@ -123,7 +123,8 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/34a89028-0907-4184-b47d-ae8b54f76fee)
+
 
 # Decisões de arquitetura
 
