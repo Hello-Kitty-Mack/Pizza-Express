@@ -132,7 +132,8 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/45ba1bb4-ea80-4b9d-8ef4-a5cadfec81de)
+
 
 # Referências
 
