@@ -137,4 +137,4 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+- https://staruml.io
