@@ -133,7 +133,7 @@ Para o sistema que realizará a comunicação entre a fábrica e as lojas
 # Diagrama de implantação
 
 ![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/85938643/45ba1bb4-ea80-4b9d-8ef4-a5cadfec81de)
-![compra](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/132100510/a5d07743-fef6-4f45-abc9-3add3823af33)
+![image](https://github.com/Hello-Kitty-Mack/Pizza-Express/assets/111824125/4c2cfa7b-1345-487a-a23c-e0d0b2785b65)
 
 
 # Referências
